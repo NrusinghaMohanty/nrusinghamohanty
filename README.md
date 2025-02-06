@@ -2,7 +2,6 @@
 👨‍💻 About Me
 I’m a passionate Full Stack Developer with 2+ years of experience in building scalable, user-friendly, and high-performance web applications. I specialize in modern web technologies like React, Node.js, and Express, and I’m always eager to learn and explore new tools and frameworks.
 
-🛠️ Tech Stack
 Frontend Development
 HTML5
 CSS3
@@ -39,15 +38,6 @@ Backend technologies like GraphQL and MongoDB
 
 DevOps practices for CI/CD pipelines
 
-🚀 Featured Projects
-Here are some of the projects I’ve worked on:
-
-Project Name 1: A brief description of the project and its impact.
-
-Project Name 2: A brief description of the project and its impact.
-
-Project Name 3: A brief description of the project and its impact.
-
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NrusinghaMohanty&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NrusinghaMohanty&layout=compact&theme=radical" alt="Top Languages" /> </p>
 📫 Let's Connect
@@ -59,18 +49,9 @@ Twitter: @Nrusingha__
 
 LinkedIn: Nrusingha Mohanty
 
-💬 Fun Fact
-When I'm not coding, I enjoy reading tech blogs, exploring new technologies, and contributing to open-source projects.
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=NrusinghaMohanty&label=Profile+Views&color=blue&style=flat" alt="Profile Views" /> </p>
 ⭐️ Feel free to explore my repositories and don't forget to star the ones you like!
 
-Final Notes:
-Replace Project Name 1, Project Name 2, etc., with actual project names and descriptions.
-
-If you want to add a banner or custom image at the top, you can use a tool like Canva to create one and upload it to your repository.
-
-If you have a portfolio website, you can add it under the Let's Connect section.
 
 Let me know if you need further assistance! 😊
 
