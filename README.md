@@ -1,57 +1,52 @@
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Nrusingha+Mohanty;Full+Stack+Developer;2%2B+Years+of+Experience;Let's+build+something+awesome!" alt="Typing SVG" /> </p>
 👨‍💻 About Me
-I’m a passionate Full Stack Developer with 2+ years of experience in building scalable, user-friendly, and high-performance web applications. I specialize in modern web technologies like React, Node.js, and Express, and I’m always eager to learn and explore new tools and frameworks.
+# Hi there, I'm Nrusingha Mohanty! 👋
 
-Frontend Development
-HTML5
-CSS3
-JavaScript
-React
-Redux
+<p align="center">
+  <img src="https://github.com/NrusinghaMohanty/NrusinghaMohanty/blob/main/banner.png" alt="Nrusingha Mohanty Banner"/>
+</p>
 
-Backend Development
-Node.js
-Express
+## 🚀 About Me
+I'm a passionate **Full Stack Developer** with **2+ years of experience** in building web applications. I love working with modern web technologies to create efficient and scalable applications.
 
-Tools & Platforms
-Git
-VS Code
-Postman
-NPM
+---
 
-💼 Experience
-2+ Years of Professional Experience
-Developed and deployed 10+ web applications from concept to production.
+## 🛠 Tech Stack
 
-Collaborated with cross-functional teams to deliver high-quality products.
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
-Optimized application performance, resulting in 30% faster load times.
+---
 
-Built reusable components and scalable architectures for frontend and backend systems.
+## 📫 Connect With Me
 
-🌱 What I'm Currently Learning
-I’m always expanding my skill set! Currently, I’m diving deeper into:
+<p align="center">
+  <a href="mailto:nrusinghamohanty@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://x.com/Nrusingha__"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nrusingha-mohanty/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
-Advanced React patterns (e.g., Hooks, Context API, and Performance Optimization)
+---
 
-Backend technologies like GraphQL and MongoDB
+## 📈 GitHub Stats
 
-DevOps practices for CI/CD pipelines
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nrusinghamohanty&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nrusinghamohanty&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrusinghamohanty&layout=compact&theme=radical"/>
+</p>
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NrusinghaMohanty&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NrusinghaMohanty&layout=compact&theme=radical" alt="Top Languages" /> </p>
-📫 Let's Connect
-I’m always open to collaborations, discussions, or just a friendly chat. Feel free to reach out!
+---
 
-Email: nrusinghamohanty@gmail.com
-
-Twitter: @Nrusingha__
-
-LinkedIn: Nrusingha Mohanty
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=NrusinghaMohanty&label=Profile+Views&color=blue&style=flat" alt="Profile Views" /> </p>
-⭐️ Feel free to explore my repositories and don't forget to star the ones you like!
+⭐️ **Feel free to explore my repositories and connect with me!** 🚀
 
 
-Let me know if you need further assistance! 😊
 
