@@ -2,10 +2,6 @@
 👨‍💻 About Me
 # Hi there, I'm Nrusingha Mohanty! 👋
 
-<p align="center">
-  <img src="https://github.com/NrusinghaMohanty/NrusinghaMohanty/blob/main/banner.png" alt="Nrusingha Mohanty Banner"/>
-</p>
-
 ## 🚀 About Me
 I'm a passionate **Full Stack Developer** with **2+ years of experience** in building web applications. I love working with modern web technologies to create efficient and scalable applications.
 
